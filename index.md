@@ -4,42 +4,18 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="xuhong.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am currently a PhD student in Computer Engineering at University of Central Florida. I received my Master degree in Computer Science from Georgia State University at 2013  and Bachelor degree in Software Engineering from Harbin Institute of Technology in China at 2011.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Approximate computing, Graph processing and Big data storage.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. Xuhong Zhang, Jun Wang, and Jiangling Yin. Sapprox: Enabling efficient and accurate approximations on sub-datasets with distribution-aware online sampling. Proc. VLDB Endow., 10(3), 2016.
+2. Jun Wang, Jiangling Yin, Jian Zhou, Xuhong Zhang, and R. Wang. Datanet: A data distribution-aware method for sub-dataset analysis on distributed file systems. In 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pages 504–513, May 2016.
+3. Jun Wang, Xuhong Zhang, Junyao Zhang, Jiangling Yin, Dezhi Han, Ruijun Wang, and Dan Huang. Deister: A light-weight autonomous block management in data-intensive file systems using deterministic declustering distribution. Journal of Parallel and Distributed Computing, 2016.
+4. Xuhong Zhang, Ruijun Wang, Xunchao Chen, Jun Wang, Tyler Lukasiewicz, and Dezhi Han. Achieving up to zero communication delay in bsp-based graph processing via vertex categorization. In Networking, Architecture and Storage (NAS), 2015 IEEE International Conference on, pages 112–121. IEEE, 2015.
+5. Xuhong Zhang, Yanqing Zhang, Jing He, and Frank Cobia. Vision-based web page block segmentation and informative block detection. In Web Intelligence (WI) and Intelligent Agent Technologies (IAT), 2013 IEEE/WIC/ACM International Joint Conferences on, volume 3, pages 265–269. IEEE, 2013.

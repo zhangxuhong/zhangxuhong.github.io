@@ -3,19 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
+* Email: [xuhongnever@gmail.com](mailto:xuhongnever@gmail.com)
 ---
 
-## Mailing Address
+## Address
+>University of Central Florida
+>
+> 4000 Central Florida Blvd.
+>
+> Orlando, FL, 32816.
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
 
 ---
 
