@@ -74,14 +74,14 @@ hr {
 
 /* Mobile */
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
     }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 650px) {
     .container {
         max-width: 83%;
     }
@@ -90,7 +90,7 @@ hr {
     }
 }
 
-@media (max-width: 780px) {
+@media (max-width: 580px) {
     #author-name {
         display: inline-block;
     }
