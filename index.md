@@ -14,7 +14,7 @@ Approximate computing, Graph processing and Big data storage.
 
 ## Publications
 
-1. Xuhong Zhang, Jun Wang, and Jiangling Yin. Sapprox: Enabling efficient and accurate approximations on sub-datasets with distribution-aware online sampling. Proc. **VLDB** Endow., 10(3), 2016.
+1. Xuhong Zhang, Jun Wang, and Jiangling Yin. Sapprox: Enabling efficient and accurate approximations on sub-datasets with distribution-aware online sampling. Proc. **VLDB** Endow., 10(3), 2016. [[PDF]](/paper/sapprox.pdf)
 2. Jun Wang, Jiangling Yin, Jian Zhou, Xuhong Zhang, and R. Wang. Datanet: A data distribution-aware method for sub-dataset analysis on distributed file systems. In 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pages 504–513, May 2016.
 3. Jun Wang, Xuhong Zhang, Junyao Zhang, Jiangling Yin, Dezhi Han, Ruijun Wang, and Dan Huang. Deister: A light-weight autonomous block management in data-intensive file systems using deterministic declustering distribution. Journal of Parallel and Distributed Computing, 2016.
 4. Xuhong Zhang, Ruijun Wang, Xunchao Chen, Jun Wang, Tyler Lukasiewicz, and Dezhi Han. Achieving up to zero communication delay in bsp-based graph processing via vertex categorization. In Networking, Architecture and Storage (NAS), 2015 IEEE International Conference on, pages 112–121. IEEE, 2015.
