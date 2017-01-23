@@ -12,7 +12,7 @@ Hi! I am currently a PhD student in Computer Engineering at University of Centra
 
 Approximate computing, Graph processing and Big data storage.
 
-## Publications
+## Publications [(Google Scholar)](https://scholar.google.com/citations?user=bWLpm3sAAAAJ&hl=en)
 
 1. Xuhong Zhang, Jun Wang, and Jiangling Yin. **Sapprox: Enabling efficient and accurate approximations on sub-datasets with distribution-aware online sampling**. *Proc. **VLDB** Endow., 10(3), 2016*. [[PDF]](/paper/sapprox.pdf)
 2. Jun Wang, Jiangling Yin, Jian Zhou, Xuhong Zhang, and R. Wang. **Datanet: A data distribution-aware method for sub-dataset analysis on distributed file systems**. In *2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pages 504–513, May 2016*. [[PDF]](/paper/datanet.pdf)
