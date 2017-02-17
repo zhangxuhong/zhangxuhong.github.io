@@ -10,7 +10,9 @@ Hi! I am currently a PhD student in Computer Engineering at University of Centra
 
 ## Research Interest
 
-Approximate computing, Graph processing and Big data storage.
+- Distributed data analytic system
+- Distributed storage system
+- Distributed approximation system
 
 ## Publications [(Google Scholar)](https://scholar.google.com/citations?user=bWLpm3sAAAAJ&hl=en)
 
