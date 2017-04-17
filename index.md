@@ -15,7 +15,7 @@ Hi! I am currently a PhD student in Computer Engineering at University of Centra
 - Distributed approximation system
 
 ## Projects
-GitHub(https://github.com/zhangxuhong)
+GitHub (<https://github.com/zhangxuhong>)
 ## Publications [(Google Scholar)](https://scholar.google.com/citations?user=bWLpm3sAAAAJ&hl=en)
 
 1. Xuhong Zhang, Jun Wang, and Jiangling Yin. **Sapprox: Enabling efficient and accurate approximations on sub-datasets with distribution-aware online sampling**. *Proc. **VLDB** Endow., 10(3), 2016*. [[PDF]](/paper/sapprox.pdf)
